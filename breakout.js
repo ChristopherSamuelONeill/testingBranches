@@ -41,7 +41,8 @@ var paddle = {
 	y: 850,
 	height: 15,
 	width: 250,
-	speed: 450
+	speed: 300
+
 
 }
 
