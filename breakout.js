@@ -42,6 +42,7 @@ var paddle = {
 	height: 15,
 	width: 250,
 	speed: 500
+
 }
 
 function ball(x,y,xSpeed,ySpeed,radius,visible,fire)
