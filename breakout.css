@@ -1,0 +1,56 @@
+body {
+  font-family: "Century Gothic";
+  color:white;
+  background-color: black;
+}
+
+button
+{
+  padding:40px;
+}
+
+main, header {
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+header h1 {
+  font-size: 6em;
+  margin: 0;
+  padding-left: 30px;
+  letter-spacing: 20px;
+}
+
+
+canvas#breakout {
+  background: #45484d; /* Old browsers */
+ background-image: url('1642961.jpg');
+  border-radius: 10px;
+  border: 4px solid Blue;
+  width: 100%;
+}
+.help
+{
+  margin-top:4000px;
+  height:500px;
+  background-color:RGBA(255,255,255,0.3);
+  font: 20px Impact, sans-serif;
+  letter-spacing: 5px;
+  border: 2px solid White;
+  padding:10px;
+  padding-right:0px;
+  padding-top:-10px;
+  margin-top:10px;
+}
+
+
+
+
+
+main help
+{
+ 
+ 
+ 
+}
+
